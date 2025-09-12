@@ -14,7 +14,9 @@
 
 - **Embedded / Hardware**:  
   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
- ![Sensors](https://img.shields.io/badge/Sensors-HX711,servo motor,bluetooth-lightgrey?style=flat-square)
+![HX711](https://img.shields.io/badge/Sensors-HX711-lightgrey?style=flat-square)
+![Servo Motor](https://img.shields.io/badge/Sensors-Servo%20Motor-lightgrey?style=flat-square)
+![Bluetooth](https://img.shields.io/badge/Sensors-Bluetooth-lightgrey?style=flat-square&logo=bluetooth&logoColor=white)
 
 - **Tools**:  
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
